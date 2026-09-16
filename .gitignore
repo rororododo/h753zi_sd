@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Temporary & workspace directories
+.metadata/
+.vscode/
+repo_cubeh7/
+scratch/
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
